@@ -59,9 +59,6 @@ public class iTime {
     this.second = second;
   }
 
-//  public String toString() {
-//    return "hh/mm/ss " + hour + minute + second;
-//  }
 
   @Override
   public String toString() {
